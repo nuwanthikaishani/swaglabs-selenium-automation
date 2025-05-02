@@ -32,3 +32,34 @@ A TestNG + Selenium-based automation framework for testing the login functionali
 
 ## 📂 Project Structure
 
+## 🧪 How to Run
+
+### Prerequisites:
+- JDK 11 or above
+- Maven installed
+- Chrome browser
+- ChromeDriver path set correctly
+
+
+---
+
+## 🧪 How to Run
+
+### Prerequisites:
+- JDK 11 or above
+- Maven installed
+- Chrome browser
+- ChromeDriver path set correctly
+
+### Steps:
+
+# Clone the repository
+git clone https://github.com/your-username/saucedemo-selenium-automation.git
+
+# Navigate to project folder
+cd saucedemo-selenium-automation
+
+# Run the tests
+mvn clean test
+
+
