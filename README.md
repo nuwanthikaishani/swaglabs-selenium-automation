@@ -54,7 +54,7 @@ A TestNG + Selenium-based automation framework for testing the login functionali
 ### Steps:
 
 # Clone the repository
-git clone https://github.com/your-username/saucedemo-selenium-automation.git
+git clone https://github.com/nuwanthikaishani/swaglabs-selenium-automation
 
 # Navigate to project folder
 cd saucedemo-selenium-automation
